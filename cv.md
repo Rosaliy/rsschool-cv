@@ -20,5 +20,5 @@
 </html>
 ```
 6. No work experience
-7. Education: course HTML for beginners on https://ru.code-basics.com/languages/html
+7. Education: course HTML for beginners on Code-Basics https://ru.code-basics.com/languages/html
 8. English level - \* *elementary* \:)
